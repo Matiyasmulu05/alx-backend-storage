@@ -28,3 +28,4 @@ SHOW CREATE TABLE need_meeting;
 SELECT * FROM need_meeting;
 
 SHOW CREATE TABLE students;
+
